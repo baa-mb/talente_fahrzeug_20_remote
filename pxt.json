@@ -1,5 +1,5 @@
 {
-    "name": "talente_fahrzeug_2.0_remote",
+    "name": "talente_remote_test",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "8.0.21",
+        "target": "8.0.22",
         "targetId": "microbit"
     },
     "supportedTargets": [
